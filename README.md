@@ -1,4 +1,4 @@
 sunRed
 ======
 
-graphics editor
+graphic editor
